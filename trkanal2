@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Haber Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-haber.png" group-title="Spor",beIN Sport Haber Hd
+http://iptvdual355.com:8080/live/CetinErol/mfNtFa7ZDV/85258.ts
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="beIN Sports Haber Hd" tvg-logo="https://kanallogo2.com/images/spor/bein-sports-haber.png" group-title="Spor",beIN Sports Haber Hd
+http://iptvdual355.com:8080/live/CetinErol/mfNtFa7ZDV/32.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bilgilendirme" tvg-logo="http://panelvip1.com:8080/images/a3c1c2237189e8cdfb04708401892010.png" group-title="Spor",Bilgilendirme
+http://iptvdual355.com:8080/live/CetinErol/mfNtFa7ZDV/268.ts
